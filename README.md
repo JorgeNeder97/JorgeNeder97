@@ -31,24 +31,46 @@ Frontend & Fullstack Developer passionate about building clean, functional inter
 
 ### Puntomind (proyecto privado / private project)  
 ![PuntoMind](./puntomind.png)  
-**Stack:** Next.js, Typescript, Redux-Toolkit, TailwindCSS, Django (Django rest framework & Django ORM), Python, PostgreSQL, Redis, Docker, Nginx, Linux VPS (ubuntu server)  
+Link: [🔗 Puntomind Web](https://puntomind.com/)  
+
+
+### **Stack:** Next.js, Typescript, Redux-Toolkit, TailwindCSS, Django (Django rest framework & Django ORM), Python, PostgreSQL, Redis, Docker, Nginx, Linux VPS (ubuntu server)  
+
+
 Saas (Software as a service) destinado a mejorar la gestión empresarial y la estratégia comercial de las empresas, con informes, matrices, métodos, métricas, gráficos y analiticas profesionales.  
 / SaaS (Software as a Service) designed to improve business management and commercial strategy with professional reports, matrices, methods, metrics, graphs, and analytics.  
-[🔗 Ver en produccion](https://puntomind.com/)  
+
+
+
 
 ### [Numa](https://github.com/JorgeNeder97/numa)
 ![Numa](./numa.png)  
-**Stack:** Next.js, TypeScript, Prisma, PostgreSQL  
+Link: [🔗 Numa Web](https://numa-kappa.vercel.app/)  
+
+
+### **Stack:** Next.js, TypeScript, Prisma, PostgreSQL  
+
+
 Aplicación de finanzas personales con visualización de balances y registro de movimientos.  
 / Personal finance app with balance visualization and transaction tracking.  
-[🔗 Ver demo](https://numa-kappa.vercel.app/)  
+
+
+
+
 
 ### [Just Coffee](https://github.com/JorgeNeder97/just-coffee)  
 ![JustCoffee](./justcoffee.png)  
-**Stack:** Next.js, React, TypeScript, TailwindCSS  
+Link: [🔗 JustCoffee Web](https://just-coffee-sage.vercel.app/)  
+
+
+### **Stack:** Next.js, React, TypeScript, TailwindCSS  
+
+
 Web para amantes del café con diseño responsive y componentes reutilizables.  
 / Coffee lovers web app with responsive design and reusable components.  
-[🔗 Ver demo](https://just-coffee-sage.vercel.app/)  
+
+
+
 
 ---
 
