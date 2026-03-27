@@ -36,8 +36,7 @@ Link: [🔗 Grupo Invexus Web](https://www.grupoinvexus.com/)
 
 ### **Stack:** Next.js, React, Typescript, TailwindCSS, GSAP.
 
-Desarrollado en conjunto con [@Alejandrovsdev](https://github.com/Alejandrovsdev).
-Collaborated with [@Alejandrovsdev](https://github.com/Alejandrovsdev).
+Desarrollado en conjunto con [@Alejandrovsdev](https://github.com/Alejandrovsdev). / Collaborated with [@Alejandrovsdev](https://github.com/Alejandrovsdev).
 
 Landing page corporativa para Grupo Invexus Argentina desarrollada con Next.js y TailwindCSS. Optimizada para SEO y performance.
 Se trabajó especialmente en la optimización de imágenes, tiempos de carga y estructura semántica para mejorar el posicionamiento en buscadores.
