@@ -108,7 +108,7 @@ Looking for opportunities as a **Frontend or Fullstack Developer**, where I can 
 
 ## 📈 Estadísticas / GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=JorgeNeder97&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=JorgeNeder97&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNeder97&layout=compact&theme=tokyonight)
 
 
