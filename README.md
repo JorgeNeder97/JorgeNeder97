@@ -108,7 +108,7 @@ Looking for opportunities as a **Frontend or Fullstack Developer**, where I can 
 
 ## 📈 Estadísticas / GitHub Stats
 
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeNeder97)](https://github.com/anuraghazra/github-readme-stats)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeNeder97)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNeder97&layout=compact&theme=tokyonight)
 
 
