@@ -29,7 +29,7 @@ Frontend & Fullstack Developer passionate about building clean, functional inter
 
 ## 💼 Proyectos Destacados / Featured Projects
 
-### Grupo Invexus Landing Page  
+### Grupo Invexus Landing Page (proyecto privado / private project)
 ![Grupo Invexus Landing Page](./GrupoInvexus.jpeg)  
 Link: [🔗 Grupo Invexus Web](https://www.grupoinvexus.com/)  
 
