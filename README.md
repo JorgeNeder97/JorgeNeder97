@@ -29,6 +29,24 @@ Frontend & Fullstack Developer passionate about building clean, functional inter
 
 ## 💼 Proyectos Destacados / Featured Projects
 
+### Grupo Invexus Landing Page  
+![Grupo Invexus Landing Page](./GrupoInvexus.jpeg)  
+Link: [🔗 Grupo Invexus Web](https://www.grupoinvexus.com/)  
+
+
+### **Stack:** Next.js, React, Typescript, TailwindCSS, GSAP.
+
+Desarrollado en conjunto con [@Alejandrovsdev](https://github.com/Alejandrovsdev).
+Collaborated with [@Alejandrovsdev](https://github.com/Alejandrovsdev).
+
+Landing page corporativa para Grupo Invexus Argentina desarrollada con Next.js y TailwindCSS. Optimizada para SEO y performance.
+Se trabajó especialmente en la optimización de imágenes, tiempos de carga y estructura semántica para mejorar el posicionamiento en buscadores.
+/ Corporate landing page for Grupo Invexus Argentina, developed with Next.js and TailwindCSS. Optimized for SEO and performance.
+Special work was done on optimizing images, loading times, and semantic structure to improve search engine ranking.
+
+
+
+
 ### Puntomind (proyecto privado / private project)  
 ![PuntoMind](./puntomind.png)  
 Link: [🔗 Puntomind Web](https://puntomind.com/)  
