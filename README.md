@@ -1,4 +1,4 @@
-# 👋 Jorge Neder – Frontend / Fullstack Developer
+# 👋 Jorge Neder – Fullstack Developer
 
 💻 Apasionado por crear interfaces limpias y funcionales, con lógica sólida detrás.  
 Frontend & Fullstack Developer passionate about building clean, functional interfaces with solid logic behind the scenes.
